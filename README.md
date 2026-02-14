@@ -4,16 +4,12 @@
 * 👨‍💻 Full-Stack Engineer
 * 🔭 Working on: Cross-platform mobile apps with React Native and AI-driven backend services using Django
 
----
-
 ## 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surafel-sentayehu-590764227)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Surafel92811)
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sure5158)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surafel.s.tadesse@gmail.com)
-
----
 
 ## 🛠️ Tech Stack (From my Resume):
 
@@ -44,8 +40,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
----
 
 ## 🏆 Achievements:
 * 🥉 **Local 3rd Place** - NASA Space Apps Challenge 2022
