@@ -11,7 +11,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sure5158)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surafel.s.tadesse@gmail.com)
 
-## 🛠️ Tech Stack (From my Resume):
+## 🛠️ Tech Stack:
 
 ### 💻 Languages & Core
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
